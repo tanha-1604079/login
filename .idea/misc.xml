@@ -3,9 +3,14 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/login/app/src/main/res/drawable/ic_baseline_folder_24.xml" value="0.164" />
         <entry key="..\:/login/app/src/main/res/layout/activity_main.xml" value="0.264" />
+        <entry key="..\:/login/app/src/main/res/layout/card_view_design.xml" value="0.24010416666666667" />
+        <entry key="..\:/login/app/src/main/res/layout/dashboard.xml" value="0.264" />
         <entry key="..\:/login/app/src/main/res/layout/layout2.xml" value="0.2" />
+        <entry key="..\:/login/app/src/main/res/layout/leaderboard.xml" value="0.25416666666666665" />
         <entry key="..\:/login/app/src/main/res/layout/newlayout.xml" value="0.264" />
+        <entry key="..\:/login/app/src/main/res/layout/recycler.xml" value="0.24010416666666667" />
       </map>
     </option>
   </component>
